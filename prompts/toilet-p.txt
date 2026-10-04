@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: full-bleed PORTRAIT photo for the mobile version of a premium magazine website, shot like a luxury product advertisement
+Primary request: a photorealistic overhead PHOTOGRAPH looking straight down at a pristine, spotless white ceramic toilet with the lid and seat raised, the bowl holding perfectly clear, clean water. The floor is glossy pastel pink square tiles with thin white grout lines, perfectly aligned to the frame. Tucked close beside the toilet on the right: a fresh roll of white toilet paper; close on the left: a small terracotta pot with a little green plant. Everything is immaculate, bright and stylish, like a Wes Anderson bathroom or a design-magazine spread.
+Style/medium: high-end editorial interior photography, true top-down bird's-eye view, soft bright daylight from the upper left with faint leaf shadows, gentle shadows, crisp detail, clean pastel palette of pink, white and a touch of green.
+Composition/framing: the toilet is centred horizontally with its tank at the very top edge of the frame; the centre of the open bowl sits about 40% from the top of the image; the whole toilet with roll and plant fits inside the central 60% of the image width; the bottom 30% of the image is nothing but empty pink tiles. Portrait 1024x1536.
+Constraints: bowl contains only clear water, absolutely nothing else; no people, no text, no logos, no dirt.
+Avoid: angled camera, HDR, CGI look, any stains.

@@ -1,0 +1,5 @@
+Use case: precise-object-edit
+Asset type: second frame of a scroll animation; must align pixel-for-pixel with Image 1
+Input images: Image 1 = overhead photograph of a yin-yang split hot pot on a dark table (edit target).
+Primary request: add one generous bunch of white enoki mushrooms cooking in the MILKY WHITE half of the pot: long thin ivory strands with tiny caps, fanned out and half-submerged in the simmering white broth, glossy and wet, a few strands draped over the S-shaped divider. A little extra steam above that half.
+Constraints: change ONLY the contents of the milky white half of the pot. Keep the pot, the red mala half, the table, every plate, the lighting, the camera angle, the framing and the image size exactly identical to Image 1. Do not move, add or remove anything else. No text.

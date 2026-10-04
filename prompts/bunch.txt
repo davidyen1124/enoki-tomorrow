@@ -1,0 +1,7 @@
+Use case: product-mockup (photorealistic)
+Asset type: hero cut-out for a food magazine cover; the background will be chroma-keyed out afterwards
+Primary request: a photorealistic studio PHOTOGRAPH of one whole fresh bunch of white enoki mushrooms (enokitake, golden needle mushroom) exactly as sold: roughly 150 long, slender, ivory-white stems, each topped with a tiny smooth round white cap, packed tightly together and still joined at the bottom in one compact, dense beige-tan root base (the fused substrate plug). The bunch stands upright; stems are straight and parallel at the base and fan out very slightly toward the top, a few stems leaning out naturally.
+Style/medium: high-end editorial food photography, medium-format camera, 100mm lens, soft large window light from the upper left, delicate natural shadows between the stems, neutral true white balance, crisp fine detail, real organic imperfections.
+Composition/framing: perfectly front-facing, upright, centered. The whole bunch including the root base is fully inside the frame with clear margin on every side and fills about 84% of the canvas height. Portrait 1024x1536.
+Scene/backdrop: perfectly flat, uniform, solid pure magenta #FF00FF studio backdrop filling the entire background edge to edge, no gradient, no floor line, no cast shadow, no reflections (it will be removed with chroma key afterwards).
+Avoid: any magenta or pink tint, glow or reflection on the subject; CGI look; plastic look; oversaturation; HDR; text; watermark.

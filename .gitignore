@@ -1,0 +1,19 @@
+node_modules
+dist
+shots
+.vercel
+gen/logs
+gen/preview
+
+# regenerable browser recordings
+/recordings/
+
+# local environment and credentials
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+*.log

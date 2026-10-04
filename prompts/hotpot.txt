@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: full-bleed hero photo for a premium food magazine website
+Primary request: a photorealistic overhead PHOTOGRAPH of a hot pot dinner. Exactly in the centre of the frame sits one round stainless-steel yin-yang split hot pot with an S-shaped divider: one half a deep red spicy mala broth with floating dried chilies, Sichuan peppercorns and chili oil; the other half a milky white bone broth with goji berries, red dates and scallion pieces. Both broths are gently simmering with small bubbles. NO mushrooms of any kind are in the pot or anywhere on the table. Around the pot on a dark charcoal slate table are small dark ceramic plates: rolled thin slices of marbled beef, napa cabbage leaves, cubes of tofu, fish balls, sliced lotus root, sweet corn rounds, two small bowls of sesame dipping sauce, a ladle, and a pair of chopsticks on a rest.
+Style/medium: high-end editorial food photography for a magazine feature, shot from directly overhead (true top-down flat lay), dramatic moody low-key lighting with one soft light from the upper left, rich saturated but true-to-life reds, deep shadows, wisps of steam.
+Composition/framing: the round pot is perfectly centred and its diameter is about 52% of the image height; the plates are arranged loosely around it and are allowed to be cropped by the frame edges. Landscape 1536x1024.
+Constraints: no mushrooms, no people, no hands, no text, no logos.
+Avoid: HDR, CGI look, tilted or angled camera, cluttered centre.

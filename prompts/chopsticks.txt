@@ -1,0 +1,7 @@
+Use case: product-mockup (photorealistic)
+Asset type: cut-out for a food magazine website; the background will be chroma-keyed out afterwards
+Primary request: a photorealistic studio PHOTOGRAPH of a pair of dark lacquered wooden chopsticks coming in diagonally from the top right corner of the frame, pinching a generous tangle of freshly cooked enoki mushrooms lifted out of hot pot broth: about 40 long, glossy, slightly translucent ivory strands with tiny caps, limp and wet, hanging down in a loose bundle from the chopstick tips, with two or three drops of golden broth dripping from the lowest strands.
+Style/medium: high-end editorial food photography, 100mm macro look, soft directional light from the upper left, glossy wet highlights, neutral white balance, crisp detail.
+Composition/framing: chopstick tips meet the mushrooms at the centre of the upper third; the hanging mushrooms fall straight down through the centre of the frame and end with margin above the bottom edge; the chopsticks run off the top right corner. No hand visible, no bowl, no steam. Portrait 1024x1536.
+Scene/backdrop: perfectly flat, uniform, solid pure magenta #FF00FF studio backdrop filling the entire background edge to edge, no gradient, no floor line, no cast shadow, no reflections (it will be removed with chroma key afterwards).
+Avoid: any magenta or pink tint, glow or reflection on the subject; CGI look; plastic look; oversaturation; HDR; text; watermark.

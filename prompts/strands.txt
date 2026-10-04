@@ -1,0 +1,7 @@
+Use case: product-mockup (photorealistic)
+Asset type: small cut-out for a food magazine website; the background will be chroma-keyed out afterwards
+Primary request: a photorealistic overhead PHOTOGRAPH of a small loose bundle of cooked enoki mushrooms: about 25 long, thin, glossy, slightly translucent ivory-white strands with tiny round caps, lying together in one gentle S-curve like a little skein of noodles, completely intact and whole, a few strands straying outward. Wet, soft highlights.
+Style/medium: high-end editorial food photography, top-down view, soft even light, neutral white balance, crisp detail.
+Composition/framing: seen from directly above, the bundle centered and fully inside the frame with clear margin on all sides, filling about 75% of the canvas width. Square 1024x1024.
+Scene/backdrop: perfectly flat, uniform, solid pure magenta #FF00FF studio backdrop filling the entire background edge to edge, no gradient, no floor line, no cast shadow, no reflections (it will be removed with chroma key afterwards).
+Avoid: any magenta or pink tint, glow or reflection on the subject; CGI look; plastic look; oversaturation; HDR; text; watermark.

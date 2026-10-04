@@ -1,0 +1,7 @@
+Use case: illustration-story
+Asset type: full-bleed PORTRAIT commissioned editorial illustration for the mobile version of a premium food magazine website (text will sit over the top third; a photo cut-out will float on the pool)
+Primary request: an editorial ILLUSTRATION of the inside of a human stomach imagined as a tall, warm, cosy cavern or grotto: thick rippled walls with soft rounded folds (rugae) arching overhead like a vaulted ceiling, and across the bottom third a glowing pool of gastric acid in bright chartreuse yellow-green, with round bubbles rising from it and a few droplets falling from the ceiling. A darker tunnel opening at the top centre (where food arrives).
+Style/medium: hand-painted gouache with cut-paper collage shapes and visible risograph grain, flat graphic shapes, limited palette of coral pink, rose, deep maroon, cream and acid chartreuse, bold and elegant like a New Yorker or Apartamento magazine illustration. Charming, not gross, not medical.
+Composition/framing: symmetrical tall cavern interior; the upper third is darker, deeper maroon and calm; the middle is open; the acid pool fills the bottom 30%. Portrait 1024x1536.
+Constraints: no characters, no faces, no food, no text, no labels.
+Avoid: photorealism, 3D render, gore, slimy realism, medical textbook look.

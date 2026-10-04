@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: full-bleed PORTRAIT background photo for the mobile version of a premium food magazine website (dark chapter opener; text will sit over the lower third)
+Primary request: a photorealistic documentary PHOTOGRAPH inside a commercial enoki mushroom cultivation room: a long narrow aisle between tall steel racks, every shelf packed with identical translucent plastic bottles, each sprouting a dense white bunch of long enoki mushrooms held upright by a blue plastic collar. The room is cold and dim: only cool blue-teal working lights, a faint haze of cold mist hanging in the air, a wet dark concrete floor with soft reflections. Thousands of pale mushrooms glow softly in the dark.
+Style/medium: editorial documentary photography, 28mm lens, low-key moody exposure, deep blacks, natural film grain, true-to-life.
+Composition/framing: strict one-point perspective straight down the central aisle, vanishing point centred horizontally and about 40% from the top, racks symmetrical on both sides rising out of frame; the bottom third of the image is mostly the dark wet floor. Portrait 1024x1536.
+Constraints: no people, no text, no signs, no logos.
+Avoid: HDR, oversaturation, fantasy glow, CGI look, lens flare.

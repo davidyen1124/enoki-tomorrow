@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: small photo card (portrait) for a food magazine website
+Primary request: a photorealistic macro PHOTOGRAPH of hundreds of baby enoki mushrooms (pinheads) just emerging from the mouth of a translucent plastic cultivation bottle: a dense carpet of tiny cream-white pins only about one centimetre tall, each with a minuscule round cap, glistening with fine droplets of condensation.
+Style/medium: documentary macro photography, 90mm macro lens, dim cool blue-white light, very shallow depth of field, true-to-life colour, natural grain.
+Composition/framing: bottle mouth centred, seen from a low three-quarter angle, portrait 1024x1536.
+Constraints: no people, no text, no labels.
+Avoid: HDR, CGI look, long mature mushrooms.

@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: full-bleed photo for a premium food magazine website
+Primary request: a photorealistic candid PHOTOGRAPH of a delighted young Taiwanese man in his late twenties at a hot pot restaurant, leaning over the table, eyes squeezed shut in anticipation, mouth wide open, about to eat an absurdly large chopstick-full of long glossy white enoki mushrooms that he holds up with wooden chopsticks; the mushrooms dangle from the chopsticks just in front of his open mouth. Steam rises from a simmering hot pot blurred in the foreground; friends and warm restaurant lights are softly blurred in the background. He wears a plain dark green sweater.
+Style/medium: editorial lifestyle food photography, 85mm lens at f/2, warm tungsten restaurant light with a soft key light on his face, natural skin texture, true-to-life colour, subtle film grain, funny and joyful mood.
+Composition/framing: close-up, his face fills the middle of the frame and his open mouth is exactly in the centre of the image. Landscape 1536x1024.
+Constraints: no text, no logos, natural hands with five fingers.
+Avoid: HDR, CGI look, waxy skin, distorted teeth, extra fingers.

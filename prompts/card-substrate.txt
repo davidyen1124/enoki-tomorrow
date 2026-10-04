@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: small photo card (portrait) for a food magazine website
+Primary request: a photorealistic overhead PHOTOGRAPH of the ingredients of a mushroom-growing substrate laid out neatly on a brushed stainless-steel worktable: one heap of fine pale hardwood sawdust, one heap of crushed dried corncob granules, one heap of beige rice bran, and beside them one empty squat wide-mouth translucent plastic cultivation bottle and a steel scoop.
+Style/medium: editorial flat-lay photography, top-down, soft cool daylight, true-to-life colour, crisp detail.
+Composition/framing: tidy knolled arrangement, centred, portrait 1024x1536.
+Constraints: no people, no text, no labels.
+Avoid: HDR, CGI look.

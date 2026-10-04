@@ -1,0 +1,8 @@
+Use case: product-mockup (photorealistic)
+Asset type: cut-out of a supermarket product for a food magazine website; the background will be chroma-keyed out afterwards
+Primary request: a photorealistic studio PHOTOGRAPH of a retail pack of fresh enoki mushrooms as sold in an Asian supermarket: one bunch of long white enoki vacuum-sealed tightly inside a slim plastic bag. The lower third of the bag is printed with a solid OPAQUE deep forest-green band that hides the root base; the upper two thirds are clear film clinging tightly to the white mushrooms so the stems and tiny caps are clearly visible, with small realistic crinkles and soft highlights on the plastic. The bag has a flat heat-sealed strip at the top.
+Text (verbatim): on the green band, in clean cream-white sans-serif capitals, the word "ENOKI" (letters E-N-O-K-I), and below it in smaller letters "200 g". No other text, no logo, no barcode.
+Style/medium: high-end editorial product photography, medium-format camera, 100mm lens, soft window light from the upper left, neutral white balance, true-to-life.
+Composition/framing: perfectly front-facing and upright, centered, the whole pack inside the frame with clear margin on all sides, filling about 84% of the canvas height. Portrait 1024x1536.
+Scene/backdrop: perfectly flat, uniform, solid pure magenta #FF00FF studio backdrop filling the entire background edge to edge, no gradient, no floor line, no cast shadow, no reflections (it will be removed with chroma key afterwards).
+Avoid: any magenta or pink tint, glow or reflection on the subject; CGI look; plastic look; oversaturation; HDR; text; watermark.

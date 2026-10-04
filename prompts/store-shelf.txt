@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: full-bleed background photo for a premium food magazine website (a product cut-out will be placed over the centre)
+Primary request: a photorealistic PHOTOGRAPH of the refrigerated produce section of a bright, tidy Asian supermarket, seen straight-on: open chiller shelves stocked with neat rows of packaged mushrooms (enoki, shimeji, king oyster, shiitake), blocks of tofu, bundles of leafy greens and scallions. Cool clean fluorescent chiller lighting, a hint of cold mist, small blank white price-tag strips along the shelf edges.
+Style/medium: editorial lifestyle photography, 50mm lens, shallow depth of field so the whole scene is softly out of focus like a backdrop, fresh cool colour palette of whites, pale greens and soft blues, true-to-life.
+Composition/framing: straight-on view of the shelves filling the entire frame, horizontal shelf lines level, even brightness, no dominant object in the centre. Landscape 1536x1024.
+Constraints: no people, no readable text, no brand names, no logos.
+Avoid: HDR, oversaturation, CGI look, dark vignette.

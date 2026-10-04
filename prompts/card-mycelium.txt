@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: small photo card (portrait) for a food magazine website
+Primary request: a photorealistic macro PHOTOGRAPH looking slightly down at a row of squat translucent plastic mushroom cultivation bottles on a steel shelf, their dark sawdust substrate completely colonised by fluffy cotton-white mushroom mycelium that shows through the plastic and blankets the open bottle mouths like fresh snow.
+Style/medium: documentary macro photography, 60mm macro lens, dim cool light, shallow depth of field with the front bottle sharp, true-to-life colour, natural grain.
+Composition/framing: front bottle centred, portrait 1024x1536.
+Constraints: no people, no text, no labels, no grown mushrooms yet.
+Avoid: HDR, CGI look.

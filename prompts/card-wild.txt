@@ -1,0 +1,7 @@
+Use case: photorealistic-natural
+Asset type: small photo card (portrait) for a food magazine website
+Primary request: a photorealistic nature PHOTOGRAPH of WILD enoki mushrooms (velvet shank, Flammulina) growing in a tight cluster on the side of a dead hardwood log in winter: glossy, sticky orange-brown to honey-gold caps, short stems that darken to velvety dark brown at the base, a dusting of snow on the bark and a few caps.
+Style/medium: nature macro photography, 90mm macro lens, soft overcast winter light, true-to-life colour, shallow depth of field, natural grain.
+Composition/framing: the cluster centred, portrait 1024x1536.
+Constraints: no people, no text.
+Avoid: HDR, oversaturation, fantasy glow, CGI look, white cultivated enoki.

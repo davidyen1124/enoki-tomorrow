@@ -1,0 +1,8 @@
+Use case: identity-preserve
+Asset type: PORTRAIT recomposition of an existing photo for the mobile version of a food magazine website
+Input images: Image 1 = landscape photograph of a delighted man at a hot pot restaurant about to eat a chopstick-full of enoki mushrooms (reference: keep the same man, same face, same hair, same expression, same dark green sweater, same chopsticks and mushrooms, same restaurant, same lighting).
+Primary request: recompose this exact moment as a PORTRAIT photograph: the same man, eyes squeezed shut, mouth wide open, the same long white enoki mushrooms dangling from his wooden chopsticks just in front of his mouth. Show more of the scene below him: the steaming hot pot and dark table fill the bottom third of the frame, softly blurred, with steam rising.
+Composition/framing: his open mouth is centred horizontally and sits about 36% from the top of the image; his whole head is inside the central 60% of the image width; the bottom third is the dark, softly blurred hot pot and steam. Portrait 1024x1536.
+Style/medium: editorial lifestyle food photography, 85mm lens at f/2, warm tungsten restaurant light, natural skin texture, subtle film grain.
+Constraints: no text, no logos, natural hands with five fingers.
+Avoid: HDR, CGI look, waxy skin, distorted teeth, extra fingers.
