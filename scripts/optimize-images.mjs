@@ -1,35 +1,35 @@
-// Trim + resize generated images from ./gen into ./public/img as WebP.
+// Trim + resize generated images from ./assets-src/gen into ./public/img as WebP.
 import sharp from 'sharp';
 import { mkdirSync, writeFileSync } from 'node:fs';
 
 mkdirSync('public/img', { recursive: true });
 
 const jobs = [
-  // cut-outs: shot on a chroma-key backdrop, keyed to alpha by scripts/key.mjs (gen/*-cut.png), trimmed
-  ['gen/bunch-cut.png', 'bunch', { h: 1400, trim: true }],
-  ['gen/bottle-cut.png', 'bottle', { h: 1400, trim: true }],
-  ['gen/pack-cut.png', 'pack', { h: 1300, trim: true }],
-  ['gen/chopsticks-cut.png', 'chopsticks', { h: 1300, trim: true }],
-  ['gen/strands-cut.png', 'strands', { h: 800, trim: true }],
+  // cut-outs: shot on a chroma-key backdrop, keyed to alpha by scripts/key.mjs (assets-src/gen/*-cut.png), trimmed
+  ['assets-src/gen/bunch-cut.png', 'bunch', { h: 1400, trim: true }],
+  ['assets-src/gen/bottle-cut.png', 'bottle', { h: 1400, trim: true }],
+  ['assets-src/gen/pack-cut.png', 'pack', { h: 1300, trim: true }],
+  ['assets-src/gen/chopsticks-cut.png', 'chopsticks', { h: 1300, trim: true }],
+  ['assets-src/gen/strands-cut.png', 'strands', { h: 800, trim: true }],
   // full-bleed plates
-  ['gen/farm-room.png', 'farm-room', { w: 1536, q: 76 }],
-  ['gen/store-shelf.png', 'store-shelf', { w: 1536, q: 72 }],
-  ['gen/hotpot.png', 'hotpot', { w: 1536, q: 78 }],
-  ['gen/hotpot-enoki.png', 'hotpot-enoki', { w: 1536, q: 78 }],
-  ['gen/diner.png', 'diner', { w: 1536, q: 78 }],
-  ['gen/stomach.png', 'stomach', { w: 1536, q: 80 }],
-  ['gen/toilet.png', 'toilet', { w: 1536, q: 78 }],
-  ['gen/intestine.png', 'intestine', { w: 1536, q: 82 }],
+  ['assets-src/gen/farm-room.png', 'farm-room', { w: 1536, q: 76 }],
+  ['assets-src/gen/store-shelf.png', 'store-shelf', { w: 1536, q: 72 }],
+  ['assets-src/gen/hotpot.png', 'hotpot', { w: 1536, q: 78 }],
+  ['assets-src/gen/hotpot-enoki.png', 'hotpot-enoki', { w: 1536, q: 78 }],
+  ['assets-src/gen/diner.png', 'diner', { w: 1536, q: 78 }],
+  ['assets-src/gen/stomach.png', 'stomach', { w: 1536, q: 80 }],
+  ['assets-src/gen/toilet.png', 'toilet', { w: 1536, q: 78 }],
+  ['assets-src/gen/intestine.png', 'intestine', { w: 1536, q: 82 }],
   // portrait plates for phones
-  ['gen/farm-room-p.png', 'farm-room-p', { w: 1024, q: 74 }],
-  ['gen/diner-p.png', 'diner-p', { w: 1024, q: 76 }],
-  ['gen/stomach-p.png', 'stomach-p', { w: 1024, q: 78 }],
-  ['gen/toilet-p.png', 'toilet-p', { w: 1024, q: 76 }],
+  ['assets-src/gen/farm-room-p.png', 'farm-room-p', { w: 1024, q: 74 }],
+  ['assets-src/gen/diner-p.png', 'diner-p', { w: 1024, q: 76 }],
+  ['assets-src/gen/stomach-p.png', 'stomach-p', { w: 1024, q: 78 }],
+  ['assets-src/gen/toilet-p.png', 'toilet-p', { w: 1024, q: 76 }],
   // photo cards
-  ['gen/card-wild.png', 'card-wild', { w: 720 }],
-  ['gen/card-substrate.png', 'card-substrate', { w: 720 }],
-  ['gen/card-mycelium.png', 'card-mycelium', { w: 720 }],
-  ['gen/card-pins.png', 'card-pins', { w: 720 }],
+  ['assets-src/gen/card-wild.png', 'card-wild', { w: 720 }],
+  ['assets-src/gen/card-substrate.png', 'card-substrate', { w: 720 }],
+  ['assets-src/gen/card-mycelium.png', 'card-mycelium', { w: 720 }],
+  ['assets-src/gen/card-pins.png', 'card-pins', { w: 720 }],
 ];
 
 const manifest = {};

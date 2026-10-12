@@ -2,8 +2,8 @@ node_modules
 dist
 shots
 .vercel
-gen/logs
-gen/preview
+assets-src/gen/logs
+assets-src/gen/preview
 
 # regenerable browser recordings
 /recordings/

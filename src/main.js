@@ -364,7 +364,7 @@ function build() {
   t = T.gut;
   const gut = $('.gut');
   const map = $('.gut__map');
-  // The photo was generated from a layout guide (ref/gut-guide.png, 1536×1024); these are that guide's numbers,
+  // The photo was generated from a layout guide (assets-src/ref/gut-guide.png, 1536×1024); these are that guide's numbers,
   // so the route the enoki rides is the route the intestine was painted along.
   const k = map.offsetWidth / 1536;
   const G = { tw: 92, rows: 5, x0: 110, x1: 1426, y0: 150, y1: 874 };

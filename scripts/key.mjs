@@ -1,5 +1,5 @@
 // Chroma-key a magenta studio backdrop to real alpha (with colour un-mixing so edges carry no pink spill).
-// usage: node scripts/key.mjs gen/foo.png [gen/foo-cut.png]
+// usage: node scripts/key.mjs assets-src/gen/foo.png [assets-src/gen/foo-cut.png]
 import sharp from 'sharp';
 
 const src = process.argv[2];
